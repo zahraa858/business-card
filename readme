@@ -1,5 +1,4 @@
 Profile Card – Zahraa Meselmani
-
 This is a simple personal profile card built using HTML and CSS.
 It includes basic styling, a profile image, and small hover animations.
 
@@ -20,5 +19,6 @@ HTML
 CSS
 
 How to Run
+
 
 Just open index.html in any browser.
